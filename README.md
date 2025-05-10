@@ -1,10 +1,12 @@
 ## 👋 HI, I'm David Park
-I'm builidng offline-first tools that help me optimize/improve my life
-Everything you see here is personal, helf-hosted, and designed with full ownership in mind
+I'm building offline-first tools that help me optimize/improve my life
+Everything you see here is personal, self-hosted, and designed with full ownership in mind
 
 ## 🚧 What I'm Building
-🔹 **[YouTube Downloader Organizer]
-MP3/MP4 downloader that renames and files videos by type and channel
+- Personal Finance Manager
+  - pdf parser that takes in bank statements and gives insight into my spending
+- YouTube Downloader Organizer
+  - MP3/MP4 downloader that renames and files videos by type and channel
 
 <!--
 **davidparksoftware/davidparksoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
